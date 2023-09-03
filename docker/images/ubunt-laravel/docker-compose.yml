@@ -1,0 +1,7 @@
+version: '3'
+services:
+  custom-ubuntu:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ubuntu-laravel:latest
