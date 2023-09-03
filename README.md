@@ -8,6 +8,6 @@ cd docker-guardian-scripts
 
 Make the script executable:
 ```bash
-sudo chmod +x ./install-zsh.sh
+sudo chmod +x ./install/install-zsh.sh
 
 ```
