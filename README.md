@@ -5,7 +5,9 @@ docker-guardian-scripts
 git clone https://github.com/TheDevStallion96/docker-guardian-scripts.git
 cd docker-guardian-scripts
 ```
+
+Make the script executable:
 ```bash
-sudo chmod +x ./nstall-zsh.sh
+sudo chmod +x ./install-zsh.sh
 
 ```
