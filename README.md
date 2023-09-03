@@ -5,3 +5,7 @@ docker-guardian-scripts
 git clone https://github.com/TheDevStallion96/docker-guardian-scripts.git
 cd docker-guardian-scripts
 ```
+```bash
+sudo chmod +x ./nstall-zsh.sh
+
+```
